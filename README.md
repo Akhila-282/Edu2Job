@@ -39,5 +39,5 @@ It helps students, fresh graduates, or professionals explore career paths aligne
 ## Installation
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/Edu2Job.git
+git clone https://github.com/Akhila-282/Edu2Job.git
 cd Edu2Job
